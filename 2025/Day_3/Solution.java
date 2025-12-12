@@ -36,7 +36,7 @@ public class Solution {
 }
 
 
-public class Bank {
+class Bank {
 
     public List<Long> input;
 
